@@ -1,0 +1,13 @@
+c:\users\iraqi\documents\visual studio 2015\Projects\Mysql_Connection\Mysql_Connection\bin\Debug\Mysql_Connection.exe.config
+c:\users\iraqi\documents\visual studio 2015\Projects\Mysql_Connection\Mysql_Connection\bin\Debug\Mysql_Connection.exe
+c:\users\iraqi\documents\visual studio 2015\Projects\Mysql_Connection\Mysql_Connection\bin\Debug\Mysql_Connection.pdb
+c:\users\iraqi\documents\visual studio 2015\Projects\Mysql_Connection\Mysql_Connection\bin\Debug\Google.Protobuf.dll
+c:\users\iraqi\documents\visual studio 2015\Projects\Mysql_Connection\Mysql_Connection\bin\Debug\MySql.Data.dll
+c:\users\iraqi\documents\visual studio 2015\Projects\Mysql_Connection\Mysql_Connection\bin\Debug\Google.Protobuf.xml
+c:\users\iraqi\documents\visual studio 2015\Projects\Mysql_Connection\Mysql_Connection\bin\Debug\MySql.Data.xml
+c:\users\iraqi\documents\visual studio 2015\Projects\Mysql_Connection\Mysql_Connection\obj\Debug\Mysql_Connection.csprojResolveAssemblyReference.cache
+c:\users\iraqi\documents\visual studio 2015\Projects\Mysql_Connection\Mysql_Connection\obj\Debug\Mysql_Connection.DB_Connection.resources
+c:\users\iraqi\documents\visual studio 2015\Projects\Mysql_Connection\Mysql_Connection\obj\Debug\Mysql_Connection.Properties.Resources.resources
+c:\users\iraqi\documents\visual studio 2015\Projects\Mysql_Connection\Mysql_Connection\obj\Debug\Mysql_Connection.csproj.GenerateResource.Cache
+c:\users\iraqi\documents\visual studio 2015\Projects\Mysql_Connection\Mysql_Connection\obj\Debug\Mysql_Connection.exe
+c:\users\iraqi\documents\visual studio 2015\Projects\Mysql_Connection\Mysql_Connection\obj\Debug\Mysql_Connection.pdb
